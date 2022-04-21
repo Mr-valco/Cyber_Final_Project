@@ -14,6 +14,7 @@ You must inspect your traffic capture to answer the following questions:
 5. Upload the file to [VirusTotal.com](https://www.virustotal.com/gui/). 
 6. What kind of malware is this classified as?
 
+![Title](/Images/screen.png "description")
 ---
 
 ## Vulnerable Windows Machine
